@@ -26,6 +26,7 @@ Dentro podra ver una lista de usuarios cuyos correos son el username y la passwo
 Servicios de PUT y DELETE estan habilitados pero las interfaces estan en desarrollo.
 
 SERVICIOS:
+
 GET   http://localhost:3000/api/users/            Obtencion de todos los usuarios
 
 GET   http://localhost:3000/api/users/id          Obtencion de un usuario en particular
