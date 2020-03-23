@@ -22,6 +22,6 @@ Puede loguearse usando el usuario:
 cris.taruman@proquest.com/coluntoda1254
 
 Dentro podra ver una lista de usuarios cuyos correos son el username y la password para todos sera "coluntoda1254"
-Servicios de PUT y delete estan habilitados pero las interfaces estan en desarrollo.
+Servicios de PUT y DELETE estan habilitados pero las interfaces estan en desarrollo.
 
 Saludos.
