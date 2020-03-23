@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "primer_nombre": "Cristian",
+        "segundo_nombre": "Alejandro",
+        "primer_apellido": "Taruman",
+        "segundo_apellido": "Betancourt",
+        "birthday": "06/09/1992",
+        "email": "cris.taruman@gmail.com",
+        "password": "coluntoda1254"
+    },
+    {
+        "id": "2",
+        "primer_nombre": "Maria",
+        "segundo_nombre": "Jose",
+        "primer_apellido": "Quezada",
+        "segundo_apellido": "Quezada",
+        "bithday": "06/09/1988",
+        "email": "mariajose.quezada@gmail.com",
+        "password": "coluntoda1254"
+    }
+]
