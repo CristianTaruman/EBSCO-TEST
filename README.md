@@ -11,7 +11,7 @@ npm install --save ag-grid-community ag-grid-react
 
 Ademas funciona sobre MYSQL.
 Favor instalar la BD y ejecutar el script en:
-MYSQL BD BACKUP.zip
+db.sql
 
 Luego ejecutar el proyecto con el comando:
 npm run dev
