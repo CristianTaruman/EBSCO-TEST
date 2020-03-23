@@ -1,5 +1,5 @@
 # EBSCO-TEST
-Aplicacion de prueba para la aplicacion de puesto trabajo EBSCO
+Aplicacion de prueba para la postulacion de puesto trabajo EBSCO
 
 El proyecto necesita los siguientes modulos para funcionar:
 
@@ -9,8 +9,11 @@ npm install axios
 
 npm install --save ag-grid-community ag-grid-react
 
+Ademas funciona sobre MYSQL.
+Favor instalar la BD y ejecutar el script en:
+MYSQL BD BACKUP.zip
 
-Favor instalarlos y ejecutar el proyecto con el comando:
+Luego ejecutar el proyecto con el comando:
 npm run dev
 
 El proyecto se ejecuta sobre el puerto 3000, favor abrir y disponer del puerto 3000 al ejecutar el proyecto.
