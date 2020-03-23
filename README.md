@@ -18,4 +18,10 @@ En ./src/index.js: linea 8 puede disponer de la direccion del puerto.
 Finalmente, una vez ejecutado el proyecto, abrir el navegador y acceder al proyecto mediante:
 http://localhost:3000/
 
+Puede loguearse usando el usuario:
+cris.taruman@proquest.com/coluntoda1254
+
+Dentro podra ver una lista de usuarios cuyos correos son el username y la password para todos sera "coluntoda1254"
+Servicios de PUT y delete estan habilitados pero las interfaces estan en desarrollo.
+
 Saludos.
