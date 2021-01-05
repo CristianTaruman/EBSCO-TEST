@@ -12,7 +12,7 @@
   "dependencies": {
     "ag-grid-community": "^23.0.1",
     "ag-grid-react": "^23.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "morgan": "^1.10.0",
     "mysql": "^2.18.1",
