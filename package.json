@@ -13,7 +13,7 @@
     "ag-grid-community": "^23.0.1",
     "ag-grid-react": "^23.0.0",
     "axios": "^0.19.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "morgan": "^1.10.0",
     "mysql": "^2.18.1",
     "underscore": "^1.9.2"
